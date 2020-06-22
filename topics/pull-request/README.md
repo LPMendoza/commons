@@ -1,4 +1,4 @@
-![BC logo]()../../img/logo-bc.png]
+![BC logo](../../img/logo-bc.png)
 
 # Pull Request
 ![pull request](img/pull-request.jpg)
