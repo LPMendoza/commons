@@ -1,5 +1,7 @@
-![pull request](img/pull-request.jpg)
+![BC logo]()../../img/logo-bc.png]
+
 # Pull Request
+![pull request](img/pull-request.jpg)
 
 En su forma más simple, los Pull Request son un mecanismo para que los desarrolladores notifiquen a los miembros de su equipo que han terminado una función.
 
@@ -29,7 +31,7 @@ La forma de trabajar con Pull Request es la siguiente:
 ```
 - Después de generar el PULL REQUEST, copia la URL y compartela en el canal de #support en Slack solitando code review por parte de los mentores, por ejemplo:
 
-![pull request slack](../img/pr-slack.png)
+![pull request slack](img/pr-slack.png)
 
 - Una vez que te hagan observaciones da seguimiento a ellas y resuelvelas.
 - Cuando tengas la aprobación de por lo menos uno de los mentores podrás hacer merge
