@@ -1,4 +1,4 @@
-![pull request](../img/pull-request.jpg)
+![pull request](img/pull-request.jpg)
 # Pull Request
 
 En su forma más simple, los Pull Request son un mecanismo para que los desarrolladores notifiquen a los miembros de su equipo que han terminado una función.
