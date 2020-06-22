@@ -1,4 +1,4 @@
-![bc logo](../../img/logo-bc-png)
+![BC logo](../../img/logo-bc.png)
 
 # Rubocop
 ![rubocop](img/rubo-logo.png)
