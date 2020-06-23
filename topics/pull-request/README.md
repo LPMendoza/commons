@@ -39,6 +39,12 @@ Todos los mentores y brightcoders pueden hacer Code Review (CR) de los PR, adem�
 
 ## Requerimiento
 
+En todos los proyectos que trabajes dentro de brightcoders deberás
+- Trabajar utilizando PRs que sean atómico, implemente una funcionalidad específica y que incluyan cambios reflejados en commits significativos.
+- Solicitar Coder Review de tu PR en el canal de #support publicando la URL de tu PR
+- Atender los comentarios recibidos
+- Hacer merge únicamiente cuando se tenga la aprobación de por lo menos 1 mentor
+- Participar haciendo Code Review a los PR de tus compañeros
 
 ## Enlaces
 Para conocer más sobre como trabajar tus commits y pull requests es recomendable que leas lo siguientes enlaces:
