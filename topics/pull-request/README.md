@@ -31,7 +31,7 @@ Para realizar un PULL REQUEST te recomendamos utilizar el siguiente flujo de tra
 ## Testing: Help me how can I test or look at the changes?
 <!-- Please describe in detail how you tested your changes or use screenshots -- 
 ```
-7. Para solicitar retroalimentación a tus compañeros y mentores deberás publicar en el canal #support de Slack la URL de tu PR y un mensaje en donde solicites la revisión de tu códibo (Code Review (CR)), como se muestra en el siguiente ejemplo:
+7. Para solicitar retroalimentación a tus compañeros y mentores deberás publicar en el canal #support de Slack la URL de tu PR y un mensaje en donde solicites la revisión de tu código / [Code Review (CR)](https://medium.com/palantir/code-review-best-practices-19e02780015f), como se muestra en el siguiente ejemplo:
 ![pull request slack](img/pr-slack.png)
 8. Una vez que obtengas la aprobación de por lo menos 1 de tus mentores podrás hacer el Merge an Deploy
 
@@ -52,4 +52,9 @@ Para conocer más sobre como trabajar tus commits y pull requests es recomendabl
 - [Best practices for pull requests](https://github.community/t/best-practices-for-pull-requests/10195)
 - [BEST PRACTICES ON DOING PULL REQUESTS](https://holgerfrohloff.de/best-practices-on-doing-pull-requests/)
 - [What every reviewer would like to see in your next Pull Request](https://nebulab.it/blog/what-every-reviewer-would-like-to-see-in-your-next-pull-request/?utm_content=bufferbd023&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+### Code Review
+- [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+- [Code Review – Best Practices, Guidelines & Process Insights](https://www.ideamotive.co/blog/code-review-best-practices)
+- [Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/reviewer/)
+
 
