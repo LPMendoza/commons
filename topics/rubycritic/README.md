@@ -12,5 +12,8 @@ Todos los proyectos de los BrightCoders deben incluir el uso de esta herramiente
   - Obtener una puntuación por lo menos de 95 en la carpeta del código de tu app
   - Obtener una puntuación por lo menos de 75 en la carpeta de pruebas de tu app
 
+## Configuración
+Deberás utilizar [este archivo de configuración (.reek.yml)](config/.reek.yml) para tu RubyCritic
+
 # Recursos
 - [RubyCritic](https://github.com/whitesmith/rubycritic)
