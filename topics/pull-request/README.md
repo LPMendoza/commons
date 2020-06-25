@@ -31,19 +31,20 @@ Para realizar un PULL REQUEST te recomendamos utilizar el siguiente flujo de tra
 ## Testing: Help me how can I test or look at the changes?
 <!-- Please describe in detail how you tested your changes or use screenshots -- 
 ```
-7. Para solicitar retroalimentación a tus compañeros y mentores deberás publicar en el canal #support de Slack la URL de tu PR y un mensaje en donde solicites la revisión de tu código / [Code Review (CR)](https://medium.com/palantir/code-review-best-practices-19e02780015f), como se muestra en el siguiente ejemplo:
+7. Para solicitar retroalimentación a tus compañeros y mentores deberás publicar en el canal de Slack que corresponda la URL de tu PR y un mensaje en donde solicites la revisión de tu código / [Code Review (CR)](https://medium.com/palantir/code-review-best-practices-19e02780015f), como se muestra en el siguiente ejemplo:
 ![pull request slack](img/pr-slack.png)
-8. Una vez que obtengas la aprobación de por lo menos 1 de tus mentores podrás hacer el Merge an Deploy
+8. Para poder hacer merge y deploy deberás obtener una aprobación.
+9. La aprobación de tu pull request dependerá del ejercicio que estes realizando, cada ejercicio tiene sus propias indicaciones.
 
-Todos los mentores y brightcoders pueden hacer Code Review (CR) de los PR, además de dar retroalimentación a tus compañeros esta también es una forma de de aprender así que haz CR cada vez que puedas.
+Independientemente del ejercicio que estés realizando cualquier mentor o brightcoder pueden hacer Code Review (CR), además de dar retroalimentación a tus compañeros esta también es una forma de de aprender así que haz CR cada vez que puedas.
 
 ## Requerimiento
 
-En todos los proyectos que trabajes dentro de brightcoders deberás
+Siempre que se te solicite utilizár pull request deberás:
 - Trabajar utilizando PRs que sean atómico, implemente una funcionalidad específica y que incluyan cambios reflejados en commits significativos.
-- Solicitar Coder Review de tu PR en el canal de #support publicando la URL de tu PR
+- Solicitar Coder Review de tu PR en el canal que corresponda publicando la URL de tu PR
 - Atender los comentarios recibidos
-- Hacer merge únicamiente cuando se tenga la aprobación de por lo menos 1 mentor
+- Hacer merge únicamiente cuando se tenga la aprobación
 - Participar haciendo Code Review a los PR de tus compañeros
 
 ## Enlaces
