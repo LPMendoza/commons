@@ -1,4 +1,4 @@
-![BrightCoders Logo](../../img/logo.bc.png)
+![BrightCoders Logo](../../img/logo-bc.png)
 
 # Test Driven Development (TDD)
 
@@ -12,8 +12,8 @@ En los siguientes videos Eduardo Hernández ingeniero de [MagmaLabs](https://www
 
 ### Parte 01 
 
+[![Video](img/video-logo.png)](https://drive.google.com/file/d/1ylM6Je1oRAcSnG8mOBIJKu0DEBMUvyNb/preview)
 
-<iframe src="https://drive.google.com/file/d/1ylM6Je1oRAcSnG8mOBIJKu0DEBMUvyNb/preview" width="640" height="480"></iframe>
 
 ### Parte 02
 
