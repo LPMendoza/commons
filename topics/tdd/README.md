@@ -3,7 +3,7 @@
 # Test Driven Development (TDD)
 ![TDD](img/tdd.png)
 
-El desarrollo basado en pruebas o Test Driven Development, es la práctica de escribir primero las pruebas, para después utilizar esas pruebas como guia para escribir nuestro código. Esto puede sonar un poco raro, pero resulta que hace que la escritura de código sea más fácil. Proporciona un claro fluho de trabajo y los pasos a seguir mientras estás codificando y tiene el beneficio adicional de generar una suite de pruebas en la cual puedes confiar.
+El desarrollo basado en pruebas o Test Driven Development, es la práctica de escribir primero las pruebas, para después utilizar esas pruebas como guia para escribir nuestro código. Esto puede sonar un poco raro, pero resulta que hace que la escritura de código sea más fácil. Proporciona un claro flujo de trabajo y los pasos a seguir mientras estás codificando y tiene el beneficio adicional de generar una suite de pruebas en la cual puedes confiar.
 
 En BrightCoders somos promotores del uso de esta práctica por lo que **TODOS** tus programas deberán incluir pruebas
 
