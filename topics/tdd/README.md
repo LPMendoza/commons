@@ -12,6 +12,7 @@ En los siguientes videos Eduardo Hernández ingeniero de [MagmaLabs](https://www
 
 ### Parte 01 
 
+
 <iframe src="https://drive.google.com/file/d/1ylM6Je1oRAcSnG8mOBIJKu0DEBMUvyNb/preview" width="640" height="480"></iframe>
 
 ### Parte 02
