@@ -30,6 +30,6 @@ Para aprender más sobre TDD te recomendamos los siguientes enlaces:
 - [UPCASE Test Driven With Rails](https://thoughtbot.com/upcase/test-driven-rails)
 - [UPCASE Rails Testing Exercises](https://thoughtbot.com/upcase/rails-testing-exercises)
 - [UPCASE Test doubles](https://thoughtbot.com/upcase/test-doubles) 
-- [Ruby Joans](http://www.rubykoans.com/
+- [Ruby Joans](http://www.rubykoans.com/)
 
 
