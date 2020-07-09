@@ -10,10 +10,14 @@ Esta herramienta (gema) nos permite realizar un análisis de nuestro código y g
 Todos los proyectos de los BrightCoders deben incluir el uso de esta herramiente y el código deberá cumplir con los siguientes criterios
 
   - Obtener una puntuación por lo menos de 95 en la carpeta del código de tu app
-  - Obtener una puntuación por lo menos de 75 en la carpeta de pruebas de tu app
+  - Obtener una puntuación entre 65-70 en la carpeta de pruebas de tu app
+  - Publicar el resultado de tu Rubycritic utilizando [Rubycritic small badge](https://github.com/jorge27/tutorial-rubycritic-small-badge)
 
 ## Configuración
 Deberás utilizar [este archivo de configuración (.reek.yml)](config/.reek.yml) para tu RubyCritic
 
 # Recursos
 - [RubyCritic](https://github.com/whitesmith/rubycritic)
+- [Tutorial para utilizar rubycritic-small-badge](https://github.com/jorge27/tutorial-rubycritic-small-badge)
+- [RepoSmallBadge](https://github.com/MarcGrimme/repo-small-badge)
+
