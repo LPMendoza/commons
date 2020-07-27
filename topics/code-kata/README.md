@@ -24,23 +24,21 @@ En BrightCoders estaremos practicando dos tipos de katas:
 
 ## Code Kata Individual
 
-En este ejercicio cada BrightCoder escribe por cuenta propia su solución. Aunque como en todos los ejercicios de BrightCoders, puedes pedir ayuda a tus compañeros o mentores.
+Cada BrightCoder escribe por cuenta propia su solución, aunque puedes preguntar y recibir ayuda de tus compañeros o mentores.
 
 ## Code Kata Grupal
-En la solución del ejercicio participan 2 o más BrightCoders. Para escribir la solución todos los participantes trabajaran de manera síncrona (misma hora y fecha) apoyandose en alguna plataforma para la comunicación (zoom, google hangouts, etc) y tomando turnos de la siguiente forma:
+Participan 2 o más Brightcoders.  Para que el ejercicio se considere válido todos los integrantes del equipo deberán trabajar por igual y al mismo tiempo. Es decir, deben reunirse todos los días, iniciar una videollamada, mantenerse conectados y participar de manera activa.
 
-1. Sin excepción todos los participantes deberán el mismo número de turnos (por lo menos 1 turno por participante).
-2. La duración de cada turno puede ser entre 15 y 20 minutos.
-3. El participante en turno será el responsable de escribir el código que entre todos los participantes propongan.
-4. El participante en turno compartirá su pantalla al resto de los participantes para que puedan ver el código que entre todos están generando
-5. La responsabilidad escribir el código es del participante en turno, pero la responsabilidad de contribuir para encontrar la solución es de TODOS los participantes.
-6. El código deberá estar en un repositorio de Github
-7. Al terminar su tiempo, el participante en turno subirá sus cambios al repositorio remoto y cederá el control (para escribir código y compartir pantalla) al siguiente participante.
-8. El participante que recibe o inicia el turno, bajará las actualizaciones del repositorio remoto y entre TODOS continuarán la solución.
-9. Este proceso se repite hasta agotar el tiempo o hasta terminar la solución.
+Para que un ejercicio de code kata grupal deberán:
 
-## Duración
+1. Participar todos los integrantes del equipo
+2. Reflejar la participación por igual en su repositorio de github, es decir todos los participantes deben hacer commits y tener más o menos el mismo número de commits.
+3. Debe haber participación (commits) diarios.
+4. El repositorio en github debe mantenerse actualizado
+5. Publicar en #support los enlaces a los canales (zoom, google meet, vs code live share) mediante los cuales el equipo está en comunicación.
 
-Esta dependerá de cada ejercicio, puede una sola sesón de algunas horas, ó una sesión de algunos días (máximo 5 días)
+### Herramientas
 
-
+En cuanto a las herramientas, se recomienda utilizar:
+1. Una herramienta para mantener comunicacion audio visual entre todos los integrantes del equipo como Zoom o Google Meet
+2. Una herramienta que permita trabajar de manera colaborativa en el código de la kata como Visual Studio Live Share
