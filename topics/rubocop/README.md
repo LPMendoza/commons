@@ -7,7 +7,7 @@ Rubocop es un verificador de estilos (linter) para Ruby que se basa en la [guía
 
 ## Requerimiento
 
-Con el fin de que tu código cumpla con los lineamientos recomendados enla guía de estilos de Ruby es un requisito utilizar Rubocop en todos los proyectos
+Con el fin de que tu código cumpla con los lineamientos recomendados en la guía de estilos de Ruby es un requisito utilizar Rubocop en todos los proyectos
 
 ## Recursos
 
