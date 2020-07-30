@@ -20,6 +20,14 @@
 - [HackerRank Ruby](https://www.hackerrank.com/domains/ruby/)
 - [Code Academy Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
+## Object Oriented Programming
+- [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid)
+- [Refactoring: Replace Conditional with Polymorphism](https://thoughtbot.com/blog/refactoring-replace-conditional-with-polymorphism)
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+- [SOLID & Ruby in 5 short examples](https://medium.com/rubycademy/solid-ruby-in-5-short-examples-353ea22f9b05)
+- [Replace Conditional with Polymorphism](https://refactoring.guru/replace-conditional-with-polymorphism)
+- [Kill the conditional in Ruby with polymorphism](https://medium.com/@anonyo/kill-the-if-statement-or-conditional-in-ruby-with-polymorphism-a3a6f1b64e8d)
+
 ## Pull Request
 - [Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
 
