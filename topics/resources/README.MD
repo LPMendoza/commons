@@ -43,4 +43,6 @@
 - [Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
 - [Reek](https://github.com/bright-coders/commons/tree/master/topics/reek)
 - [RubyCritic](https://github.com/bright-coders/commons/tree/master/topics/rubycritic)
+- [Rspec](https://rspec.info/)
+- [Minitest](https://github.com/seattlerb/minitest)
 
