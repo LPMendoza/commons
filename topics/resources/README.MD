@@ -1,6 +1,11 @@
 ![BrightCoders Logo](../../img/logo-bc.png)
 # Recommended resources
 
+## Commits
+- [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
+- [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
 ## Learn Ruby
 - [Ruby](https://www.ruby-lang.org/)
 - [Try Ruby](https://try.ruby-lang.org/)
@@ -12,10 +17,14 @@
 - [HackerRank Ruby](https://www.hackerrank.com/domains/ruby/)
 - [Code Academy Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
-## Commits
-- [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
-- [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+## Pull Request
+- [Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
+
+## Test Driven Development
+- [TDD by Eduardo Hernández (MagmaLabs)](https://github.com/bright-coders/commons/tree/master/topics/tdd)
 
 ## Tools
 - [Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
+- [Reek](https://github.com/bright-coders/commons/tree/master/topics/reek)
+- [RubyCritic](https://github.com/bright-coders/commons/tree/master/topics/rubycritic)
+
