@@ -33,6 +33,11 @@
 
 ## Test Driven Development
 - [TDD by Eduardo Hernández (MagmaLabs)](https://github.com/bright-coders/commons/tree/master/topics/tdd)
+- [UPCASE Learn Testing](https://thoughtbot.com/upcase/testing)
+- [UPCASE Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+- [UPCASE Test Driven With Rails](https://thoughtbot.com/upcase/test-driven-rails)
+- [UPCASE Rails Testing Exercises](https://thoughtbot.com/upcase/rails-testing-exercises)
+- [UPCASE Test doubles](https://thoughtbot.com/upcase/test-doubles)
 
 ## Tools
 - [Rubocop](https://github.com/bright-coders/commons/tree/master/topics/rubocop)
