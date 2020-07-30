@@ -1,6 +1,9 @@
 ![BrightCoders Logo](../../img/logo-bc.png)
 # Recommended resources
 
+## CodeKata
+- [Code Kata](https://github.com/bright-coders/commons/tree/master/topics/code-kata)
+
 ## Commits
 - [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
 - [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
