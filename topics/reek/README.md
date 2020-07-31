@@ -27,3 +27,7 @@ Algunas de las ventajas de la refactorización son:
 
 - [Reek](https://github.com/troessner/reek)
 - [Code smells](https://github.com/troessner/reek/blob/master/docs/Code-Smells.md)
+- [How to Find Ruby Code Smells with Reek](https://rollout.io/blog/how-to-find-ruby-code-smells-with-reek/)
+- [Lessons learned and Code Smells detected with Reek](https://medium.com/sourcelevel/lessons-learned-and-code-smells-detected-with-reek-ca9374a3eece)
+- [Prevent the “unpleasant codes” by Ruby code smell verification tool “reek”](https://blog.sideci.com/prevent-the-unpleasant-codes-by-ruby-code-smell-verification-tool-reek-8d936bc24f8f)
+
