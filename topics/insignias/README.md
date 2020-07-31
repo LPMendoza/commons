@@ -11,7 +11,9 @@ Son otorgados por BrightCoders Academy de acuerdo a los siguientes criterios.
 
 Insignia | Criterios
 ---| ---
-![Top Coder](img/top-coder-small.png) | - Uno
+![Top Coder](img/top-coder-small.png) | 
+- Uno
+- Dos
 ![Finisher](img/finisher-small.png) | - Uno
 
 
