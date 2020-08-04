@@ -10,15 +10,20 @@
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ## Learn Ruby
+- [Groom your app’s Ruby environment with rbenv.](https://github.com/rbenv/rbenv)
+- [ruby-build](https://github.com/rbenv/ruby-build#readme)
 - [Ruby](https://www.ruby-lang.org/)
 - [Try Ruby](https://try.ruby-lang.org/)
 - [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+- [MicroBlogger](http://tutorials.jumpstartlab.com/projects/microblogger.html)
 - [Ruby from other languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 - [Official Ruby FAQ](https://www.ruby-lang.org/en/documentation/faq/)
 - [Official Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
 - [HackerRank Ruby](https://www.hackerrank.com/domains/ruby/)
 - [Code Academy Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+- [Better Specs](https://www.betterspecs.org/)
 
 ## Learn Rails
 - [Ruby on Rails Official Web Site](https://rubyonrails.org/)
@@ -26,7 +31,8 @@
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial)
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
 - [JumpStartLab](http://tutorials.jumpstartlab.com/)
-  - http://tutorials.jumpstartlab.com/projects/microblogger.html
+
+
   - http://tutorials.jumpstartlab.com/projects/contact_manager.html
   
  
