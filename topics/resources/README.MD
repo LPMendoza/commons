@@ -20,6 +20,16 @@
 - [HackerRank Ruby](https://www.hackerrank.com/domains/ruby/)
 - [Code Academy Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
+## Learn Rails
+- [Ruby on Rails Official Web Site](https://rubyonrails.org/)
+- [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+- [Ruby on Rails Tutorial - Michael Hartl](https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial)
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+- [JumpStartLab](http://tutorials.jumpstartlab.com/)
+  - http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+ 
+- [UPCASE Learn Ruby](https://thoughtbot.com/upcase/rails)
+
 ## Object Oriented Programming
 - [Back to Basics: SOLID](https://thoughtbot.com/blog/back-to-basics-solid)
 - [Refactoring: Replace Conditional with Polymorphism](https://thoughtbot.com/blog/refactoring-replace-conditional-with-polymorphism)
@@ -45,4 +55,15 @@
 - [RubyCritic](https://github.com/bright-coders/commons/tree/master/topics/rubycritic)
 - [Rspec](https://rspec.info/)
 - [Minitest](https://github.com/seattlerb/minitest)
+
+## Performance & Scalability
+- [What if I Tell You That Ruby on Rails Is Scalable](https://rubygarage.org/blog/ruby-on-rails-is-scalable)
+- [The Twelve-Factor App](https://12factor.net/)
+
+## Security
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [OWASP Ruby on Rails Cheatsheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheat_Sheet.html)
+
+## Calidad
+- [CircleCI makes continuous integration for your Ruby project simple and easy](https://circleci.com/features/ruby/)
 
