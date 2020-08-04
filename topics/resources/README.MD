@@ -26,7 +26,9 @@
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial)
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
 - [JumpStartLab](http://tutorials.jumpstartlab.com/)
-  - http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
+  - http://tutorials.jumpstartlab.com/projects/microblogger.html
+  - http://tutorials.jumpstartlab.com/projects/contact_manager.html
+  
  
 - [UPCASE Learn Ruby](https://thoughtbot.com/upcase/rails)
 
