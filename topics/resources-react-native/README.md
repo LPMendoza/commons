@@ -71,5 +71,5 @@
 - [Pull Request](https://github.com/bright-coders/commons/tree/master/topics/pull-request)
 
 ## Cursos
-- [The Complete React Native and Redux Course 💵 :dollar:](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-- [React Native: Advanced Concepts 💵 :dollar:](https://www.udemy.com/course/react-native-advanced/)
+- [The Complete React Native and Redux Course 💵](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+- [React Native: Advanced Concepts 💵](https://www.udemy.com/course/react-native-advanced/)
