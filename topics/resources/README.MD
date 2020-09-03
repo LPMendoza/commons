@@ -4,6 +4,9 @@
 ## CodeKata
 - [Code Kata](https://github.com/bright-coders/commons/tree/master/topics/code-kata)
 
+## Web Design
+- [BrightCoders Talk: Media Queries by MagmaLabs engineer Rogelio Alatorre](https://youtu.be/ckswtzei8NQ)
+
 ## Commits
 - [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
 - [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
