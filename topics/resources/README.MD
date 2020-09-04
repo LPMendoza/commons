@@ -71,6 +71,9 @@
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [OWASP Ruby on Rails Cheatsheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheat_Sheet.html)
 
-## Calidad
+## Quality
 - [CircleCI makes continuous integration for your Ruby project simple and easy](https://circleci.com/features/ruby/)
+
+## Agile development
+- [Brightcoders guide for agile development](https://github.com/bright-coders/commons/tree/master/topics/agile)
 
