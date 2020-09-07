@@ -1,6 +1,6 @@
 ![Logo BrightCoders](../../img/logo-bc.png)
 
-# Introducción al desarrollo ágile
+# Introducción al desarrollo ágil
 
 Aquí encontrarás la información necesaria para familiarizarte con los conceptos básicos del desarrollo ágil.
 
