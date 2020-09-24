@@ -38,6 +38,9 @@
 - [Security](https://reactnative.dev/docs/security)
 
 ## Components & API
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Thinking in React — few tips](https://medium.com/@5066aman/thinking-in-react-few-tips-6b32fbe835a3)
+- [Thinking in components - building a todo app](https://softchris.github.io/books/react/thinkingincomponents/)
 - [Components](https://reactnative.dev/docs/components-and-apis)
 - [API](https://reactnative.dev/docs/accessibilityinfo)
 
@@ -73,3 +76,8 @@
 ## Cursos
 - [The Complete React Native and Redux Course 💵](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
 - [React Native: Advanced Concepts 💵](https://www.udemy.com/course/react-native-advanced/)
+
+## Otros
+- [React Native Navigation](https://reactnavigation.org/)
+- [Presentando Hooks](https://es.reactjs.org/docs/hooks-intro.html)
+- [Debugging](https://reactnative.dev/docs/debugging)
