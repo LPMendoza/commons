@@ -28,12 +28,33 @@ Utiliza los siguientes enlaces para entender de que trata cada nivel para poder 
 - [Software Engineer Qualification Levels: Junior, Middle, and Senior](https://hackernoon.com/software-engineer-qualification-levels-junior-middle-and-senior-f2229591df1c)
 
 ## Basics
+### label
+Escribe Ruby on Rails Web Developer o React Native Mobile Developer
 
-En el campo **summary** de esta sección escribe un breve descripción sobre tu perfil. Por ejemplo:
+### Picture, Image
+Deja estos campos como estan, no necesitas agregar nada
+
+### Summary
+Escribe un breve descripción sobre tu perfil. Por ejemplo:
 
 ![Ejemplo 1](img/summary1.png)
 ![Ejemplo 2](img/summary2.png)
 
+## Profiles
+Agrega todos los perfiles que consideres relevantes: facebook, twitter, linkedin, etc.
+
+## Work
+Agrega todos los trabajos o proyectos en los que has participado
+
+## Volunteer
+
+Si haz participado agrega información, si no elimina toda esta sección,
+
+## Education
+Estudios realizados de nivel Licenciatura en adelante. También puedes incluir cursos que consideres relevantes.
+
+## Awards
+Si es que haz recibido algún premio o reconocimiento. Si no, elimina esta sección
 
 ## Skills
 En esta sección registra tus habilidades técnicas de la siguiente forma:
@@ -43,12 +64,20 @@ En esta sección registra tus habilidades técnicas de la siguiente forma:
 - Keywords: Las que se relacionen con el skill. -por ejemplo, databases, queries, responsive design, etc.
 
 ## Softskills
-Se refiere a las habilidades intrapersonales
+Se refiere a las habilidades intrapersonales. Escribe aquellas que te caracterizan.
 
 - Name: Nombre de la habilidad, por ejemplo, Teamwork, communication, Willigness to learn, etc.
 - Level: Accquired (aplica para todos los casos)
-- Keywords: Las relacionadas con esta habilidad. Por ejemplo, listening, empathy, perseverance, etc.
 
+Algunos de los softskills reconocidos por las empresas son:
+
+- [10 Soft Skills Every Developer Needs](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)
+- [Top 7 Soft Skills for Developers in 2019](https://simpleprogrammer.com/soft-skills-2019/)
+- [Critical soft skills for software developers](https://medium.com/swlh/critical-soft-skills-for-software-developers-6845545f6dbd)
+
+## Languages
+
+Para el caso de inglés, si no tienes TOEFL pero otra certificación o nivel de inglés, registralo entre paréntesis. Si no tienes este dato elimina los paréntesis.
 
 ## Ejemplos
 
