@@ -1,4 +1,4 @@
-![MagmaHackers Logo](../imgs/logo-bc.png)
+![MagmaHackers Logo](img/logo-bc.png)
 
 # Curriculum Vitae
 
