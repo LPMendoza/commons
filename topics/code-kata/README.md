@@ -40,5 +40,5 @@ Para que un ejercicio de code kata grupal deberán:
 ### Herramientas
 
 En cuanto a las herramientas, se recomienda utilizar:
-1. Una herramienta para mantener comunicacion audio visual entre todos los integrantes del equipo como Zoom o Google Meet
+1. Una herramienta para mantener comunicacion audio visual entre todos los integrantes del equipo como Gather.
 2. Una herramienta que permita trabajar de manera colaborativa en el código de la kata como [Visual Studio Live Share](https://visualstudio.microsoft.com/es/services/live-share/)
