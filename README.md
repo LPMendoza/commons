@@ -11,7 +11,7 @@
 - [Evaluaciones](https://docs.google.com/presentation/d/1o3RDLf_3UIBipsApRipKpoQp6OCuRxaxRYOS4dZv8fc/edit?usp=sharing)
 - [Comunidad](https://docs.google.com/presentation/d/12gh99UKgI9d8VTvb7EIOIeBB_ysMCG-RXpovq4x7QgQ/edit?usp=sharing)
 - [Estrategias de aprendizaje](https://github.com/bright-coders/commons/tree/master/topics/fundamentacion)
-- [Coode Katas]()
+- [Coode Katas](https://github.com/bright-coders/commons/tree/master/topics/code-kata)
 
 ## Conéctate a BrightCoders
 
