@@ -14,4 +14,4 @@
 ## Conéctate a BrightCoders
 
 - [Gather](https://gather.town/app/OSAAXlU20Y5wbeBG/BrightCoders)
-- [Katas]()
+- [Katas](https://github.com/bright-coders/commons/projects/1)
