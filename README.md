@@ -10,8 +10,10 @@
 - [El trabajo remoto](https://docs.google.com/presentation/d/1RaC5KWMHg084a_8Rt2EGUGpavQIPVHXqjxJDCVLgXUI/edit?usp=sharing)
 - [Evaluaciones](https://docs.google.com/presentation/d/1o3RDLf_3UIBipsApRipKpoQp6OCuRxaxRYOS4dZv8fc/edit?usp=sharing)
 - [Comunidad](https://docs.google.com/presentation/d/12gh99UKgI9d8VTvb7EIOIeBB_ysMCG-RXpovq4x7QgQ/edit?usp=sharing)
+- [Estrategias de aprendizaje](https://github.com/bright-coders/commons/tree/master/topics/fundamentacion)
+- [Coode Katas]()
 
 ## Conéctate a BrightCoders
 
 - [Gather](https://gather.town/app/OSAAXlU20Y5wbeBG/BrightCoders)
-- [Katas](https://github.com/bright-coders/commons/projects/1)
+- [Actividades delos BrightCoders](https://github.com/bright-coders/commons/projects/1)
