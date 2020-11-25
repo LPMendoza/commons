@@ -11,6 +11,7 @@
 - [You Need to Write Meaningful Commit Messages](https://medium.com/better-programming/you-need-meaningful-commit-messages-d869e44e98d4) 
 - [Writing meaningful git commit messages](https://medium.com/@menuka/writing-meaningful-git-commit-messages-a62756b65c81)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Squash commit](https://github.com/bright-coders/commons/blob/master/topics/squash-commit/README.md)
 
 ## Learn Ruby
 - [Groom your app’s Ruby environment with rbenv.](https://github.com/rbenv/rbenv)
