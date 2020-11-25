@@ -16,4 +16,4 @@
 ## Conéctate a BrightCoders
 
 - [Gather](https://gather.town/app/OSAAXlU20Y5wbeBG/BrightCoders)
-- [Actividades delos BrightCoders](https://github.com/bright-coders/commons/projects/1)
+- [Actividades de los BrightCoders](https://github.com/bright-coders/commons/projects/1)
