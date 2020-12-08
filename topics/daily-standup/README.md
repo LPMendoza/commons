@@ -1,4 +1,4 @@
-![MagmaHackers Logo](../imgs/logo-bc.png)
+![Logo BrightCoders](../../img/logo-bc.png)
 
 # Daily Standup
 
