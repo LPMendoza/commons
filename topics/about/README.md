@@ -1,3 +1,6 @@
+![Logo BrightCoders](../../img/logo-bc.png)
+
+# Sobre Nosotros
 
 - [¿Quienes somos?](https://drive.google.com/open?id=1vr-GDYcB-qjci7Oq-KI6VWHToroXs4L1874NcYBNF8g)
 - [El perfil del BrightCoder](https://drive.google.com/open?id=1C5Gut5UMXexDBXWYGc6TlWUMZHPUaQV7DJ7xRoWx4ew)
