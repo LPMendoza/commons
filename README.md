@@ -9,3 +9,7 @@
 
 ## Próximos eventos
 
+| Fecha   | Hora | Lugar | Evento |
+|-------- |: ---  |:---  |----:|
+| 18 Diciembre | 17:00 | Conference Room | Taller Test Driven Development por Eduardo Hernández|
+| 22 Diciembre | 11:00 | Conference Room | Taller Git Básico por Roy Alatorre |
