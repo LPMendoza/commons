@@ -11,7 +11,13 @@
 
 | Fecha   | Hora | Lugar | Evento |
 |---------|:-----|:------|:-------|
-| 18 Diciembre | 17:00 | Conference Room | Taller Test Driven Development por Eduardo Hernández|
 | 22 Diciembre | 11:00 | Conference Room | Taller Git Básico por Roy Alatorre |
 | 21 Diciembre | 10:00 | Conference Room | Tribo Team Sprint 2 Planning | 
+| 23 Diciembre | - | - | Fin de actividades | 
+| 04 Enero  | - | - | Re-inicio de actividades | 
 
+## Canales de Slack
+
+
+| Tipo   | Nombre | Propósito |
+|---------|:-----|:------|
