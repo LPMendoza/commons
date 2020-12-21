@@ -19,5 +19,5 @@
 ## Canales de Slack
 
 
-| Tipo   | Nombre | Propósito |
-|---------|:-----|:------|
+| Tipo   | Nombre | Propósito | Participantes |
+|---------|:-----|:------|:-------|
