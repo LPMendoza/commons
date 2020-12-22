@@ -15,9 +15,21 @@
 | 21 Diciembre | 10:00 | Conference Room | Tribo Team Sprint 2 Planning | 
 | 23 Diciembre | - | - | Fin de actividades | 
 | 04 Enero  | - | - | Re-inicio de actividades | 
+| 08 Febrero  | - | - | Próxima convocatoria BrightCoders BC-MAR-21 | 
+| 26 Febrero  | - | - | Graduación BC-AUG-20 | 
+| 08 Marzo  | - | - | Inicio generación BC-MAR-21 | 
+| 28 Mayo  | - | - | Graduación BC-NOV-20 | 
 
 ## Canales de Slack
 
 
 | Tipo   | Nombre | Propósito | Participantes |
 |---------|:-----|:------|:-------|
+| público | announcements | Anuncios importantes como eventos, reuniones, etc. | BrightCoders y Mentores |
+| público | bootcamp-react-native | Comunicación con mentores de react-native, dudas técnicas, etc. | Brightcoders y mentores de react native |
+| público | estancia-profesional | Información relacionada con la estancia o prácticas profesionales | Brightcoders que realizan su estancia o práctica profesional |
+| público | general | Canal de bienvenida y asuntos generales | BrightCoders y mentores |
+| privado | mentors | Canal para comunicación con mentores | Mentores |
+| público | pory-tribo | Canal para comunicación del proyecto Tribo | Brightcoders y mentores del proyecto Tribo |
+| público | random | Canal para compartir cualquier tipo de información que no necesariamente está relacionada con BrightCoders | Brightcoders y mentores |
+| público | support | Canal principal para presentar y resolver dudas técnicas | BrightCoders y mentores |
