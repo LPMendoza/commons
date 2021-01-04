@@ -10,11 +10,9 @@
 ## Próximos eventos
 
 | Fecha   | Hora | Lugar | Evento |
-|---------|:-----|:------|:-------|
-| 22 Diciembre | 11:00 | Conference Room | Taller Git Básico por Roy Alatorre |
-| 21 Diciembre | 10:00 | Conference Room | Tribo Team Sprint 2 Planning | 
-| 23 Diciembre | - | - | Fin de actividades | 
+|---------|:-----|:------|:-------| 
 | 04 Enero  | - | - | Re-inicio de actividades | 
+| 06 Enero | 11:00 | Conference Room | Taller Navegación con React Native |
 | 08 Febrero  | - | - | Próxima convocatoria BrightCoders BC-MAR-21 | 
 | 26 Febrero  | - | - | Graduación BC-AUG-20 | 
 | 08 Marzo  | - | - | Inicio generación BC-MAR-21 | 
