@@ -13,6 +13,7 @@
 |---------|:-----|:------|:-------| 
 | 04 Enero  | - | - | Re-inicio de actividades | 
 | 06 Enero | 11:00 | Conference Room | Taller Navegación con React Native |
+| 07 Enero | 11:00 | Conference Room | Taller Git (Segunda Parte) |
 | 08 Febrero  | - | - | Próxima convocatoria BrightCoders BC-MAR-21 | 
 | 26 Febrero  | - | - | Graduación BC-AUG-20 | 
 | 08 Marzo  | - | - | Inicio generación BC-MAR-21 | 
